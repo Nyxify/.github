@@ -8,7 +8,7 @@ At Nyxify, we maintain a wide range of projects in different programming languag
 ### Projects Overview
 
 - **[Catify](https://github.com/Nyxify/Catify)** - *An open-source project dedicated to catifying your life.*
-    - **Language(s):** Bash
+    - **Language(s):** Bash, and PowerShell
     - **Status:** Active
     - **License:** MIT
   
